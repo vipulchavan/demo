@@ -1,3 +1,3 @@
 #LICENSE
 
-#APache20
+#APache 3.0
